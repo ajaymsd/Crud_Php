@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500;700&display=swap');
+*{
+    font-family:'Noto Sans', sans-serif ;
+    margin:0;
+    padding:0;
+    
+}
+body{
+    background-color:#06283D;
+}
+.con{
+    background-color: #9F8772;
+    padding:10px;
+    text-align: center;
+    margin-top:13%;
+    margin-left:33%;
+    width:400px;
+    height:250px;
+    border-radius:15px;
+
+}
+ a{
+    text-decoration: none;
+    color:yellow;
+    font-family:'Noto Sans', sans-serif ;
+
+}
+button{
+    background-color:#06283D;
+    padding:10px;
+    border-radius:15px;
+    border:none;
+    width:80%;
+  
+
+}
+ button:hover{
+    background-color: #25316D;
+ }
+
+ .h1{
+    text-align: center;
+    margin-top:2%;
+    color:#F9F9F9;
+    
+
+ }
+
+ .box{
+    background-color: #9F8772;
+    color:#06283D;
+    margin-top:1%;
+    padding:17px;
+    width:430px;
+    font-size: 20px;
+    margin-left:33%; 
+    border-radius:20px;
+ }
+ .content{
+    margin-left:7%;
+ }
+ .content input{
+    width:90%;
+    border-radius: 6px;
+    border:none;
+    height:36px;
+    background-color:white;
+    color:#06283D; 
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    /* text-align: center; */
+    padding: 4px;
+   
+
+
+ }
+ input[type=submit]{
+     background-color:#06283D;
+    padding:10px;
+    border-radius:15px;
+    border:none;
+    width:35%;
+    color:#F9F9F9;
+    margin-left: 26%;
+ }
